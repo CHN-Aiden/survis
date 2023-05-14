@@ -1,0 +1,1 @@
+define({ availableImg: ["kaveh_2018_anfis","abbaspourgilandeh_2019_prediction","torul_2004_modelling","taherigaravand_2018_artificial","liu_2019_prediction","karimi_2012_optimization","tarafdar_2021_mathematical","survis_small","karakaplan_2019_kinetic","vega_2007_mathematical","wang_2007_mathematical"]});
