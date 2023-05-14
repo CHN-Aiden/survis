@@ -1,0 +1,120 @@
+﻿define({ entries : {
+    "abbaspourgilandeh_2019_prediction": {
+        "author": "Abbaspour\u2010Gilandeh, Yousef and Jahanbakhshi, Ahmad and Kaveh, Mohammad",
+        "doi": "10.1002/fsn3.1347",
+        "journal": "Food Science & Nutrition",
+        "month": "12",
+        "pages": "594-611",
+        "title": "Prediction kinetic, energy and exergy of quince under hot air dryer using ANNs and ANFIS",
+        "type": "article",
+        "urldate": "2021-02-20",
+        "volume": "8",
+        "year": "2019"
+    },
+    "karakaplan_2019_kinetic": {
+        "author": "Karakaplan, Nihan and Goz, Eda and Tosun, Emir and Yuceer, Mehmet",
+        "doi": "10.1111/jfpp.14142",
+        "journal": "Journal of Food Processing and Preservation",
+        "month": "08",
+        "title": "Kinetic and artificial neural network modeling techniques to predict the drying kinetics of Mentha spicata L.",
+        "type": "article",
+        "urldate": "2022-03-31",
+        "volume": "43",
+        "year": "2019"
+    },
+    "karimi_2012_optimization": {
+        "author": "Karimi, F. and Rafiee, S. and Taheri-Garavand, A. and Karimi, M.",
+        "doi": "10.1016/j.jtice.2011.04.005",
+        "journal": "Journal of the Taiwan Institute of Chemical Engineers",
+        "month": "01",
+        "pages": "29-39",
+        "title": "Optimization of an air drying process for Artemisia absinthium leaves using response surface and artificial neural network models",
+        "type": "article",
+        "urldate": "2023-01-25",
+        "volume": "43",
+        "year": "2012"
+    },
+    "kaveh_2018_anfis": {
+        "author": "Kaveh, Mohammad and Rasooli Sharabiani, Vali and Amiri Chayjan, Reza and Taghinezhad, Ebrahim and Abbaspour-Gilandeh, Yousef and Golpour, Iman",
+        "doi": "10.1016/j.inpa.2018.05.003",
+        "journal": "Information Processing in Agriculture",
+        "month": "09",
+        "pages": "372-387",
+        "title": "ANFIS and ANNs model for prediction of moisture diffusivity and specific energy consumption potato, garlic and cantaloupe drying under convective hot air dryer",
+        "type": "article",
+        "urldate": "2021-02-20",
+        "volume": "5",
+        "year": "2018"
+    },
+    "liu_2019_prediction": {
+        "author": "Liu, Zi-Liang and Bai, Jun-Wen and Wang, Shu-Xi and Meng, Jian-Sheng and Wang, Hui and Yu, Xian-Long and Gao, Zhen-Jiang and Xiao, Hong-Wei",
+        "doi": "10.1080/07373937.2019.1607873",
+        "journal": "Drying Technology",
+        "month": "04",
+        "pages": "1-12",
+        "title": "Prediction of energy and exergy of mushroom slices drying in hot air impingement dryer by artificial neural network",
+        "type": "article",
+        "year": "2019"
+    },
+    "taherigaravand_2018_artificial": {
+        "author": "Taheri-Garavand, Amin and Meda, Venkatesh and Naderloo, Leila",
+        "doi": "10.1016/j.eaef.2018.08.001",
+        "journal": "Engineering in Agriculture, Environment and Food",
+        "month": "10",
+        "pages": "232-238",
+        "title": "Artificial neural Network\u2212Genetic algorithm modeling for moisture content prediction of savory leaves drying process in different drying conditions",
+        "type": "article",
+        "urldate": "2020-04-16",
+        "volume": "11",
+        "year": "2018"
+    },
+    "tarafdar_2021_mathematical": {
+        "author": "Tarafdar, Ayon and Jothi, Nandhini and Kaur, Barjinder P.",
+        "doi": "10.1016/j.jarmap.2021.100306",
+        "journal": "Journal of Applied Research on Medicinal and Aromatic Plants",
+        "month": "09",
+        "pages": "100306",
+        "title": "Mathematical and artificial neural network modeling for vacuum drying kinetics of Moringa olifera leaves followed by determination of energy consumption and mass transfer parameters",
+        "type": "article",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2214786121000152?casa_token",
+        "urldate": "2023-05-12",
+        "volume": "24",
+        "year": "2021"
+    },
+    "torul_2004_modelling": {
+        "author": "To\u011frul, \u0130nci T\u00fcrk and Pehlivan, Dursun",
+        "doi": "10.1016/j.jfoodeng.2004.02.001",
+        "journal": "Journal of Food Engineering",
+        "month": "12",
+        "pages": "413-425",
+        "title": "Modelling of thin layer drying kinetics of some fruits under open-air sun drying process",
+        "type": "article",
+        "urldate": "2020-03-11",
+        "volume": "65",
+        "year": "2004"
+    },
+    "vega_2007_mathematical": {
+        "author": "Vega, A. and Fito, P. and Andr\u00e9s, A. and Lemus, R.",
+        "doi": "10.1016/j.jfoodeng.2006.04.028",
+        "journal": "Journal of Food Engineering",
+        "month": "04",
+        "pages": "1460-1466",
+        "title": "Mathematical modeling of hot-air drying kinetics of red bell pepper (var. Lamuyo)",
+        "type": "article",
+        "urldate": "2022-02-20",
+        "volume": "79",
+        "year": "2007"
+    },
+    "wang_2007_mathematical": {
+        "author": "Wang, Zhengfu and Sun, Junhong and Chen, Fang and Liao, Xiaojun and Hu, Xiaosong",
+        "doi": "10.1016/j.jfoodeng.2006.06.019",
+        "journal": "Journal of Food Engineering",
+        "month": "05",
+        "pages": "536-544",
+        "title": "Mathematical modelling on thin layer microwave drying of apple pomace with and without hot air pre-drying",
+        "type": "article",
+        "urldate": "2023-03-10",
+        "volume": "80",
+        "year": "2007"
+    }
+}});
